@@ -119,3 +119,21 @@ a:active {
 }
 
 /* LVHA - this order is neccessary */
+
+/* Resolving conflicts */
+
+/* #copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer P {
+  color: green !important;
+} */
